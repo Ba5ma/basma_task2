@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+.titleToDo{
+    text-align: center;
+}
+
+.forTask{
+width: auto;
+margin: 5%;
+}
+
+input{
+    margin-left: 10px;
+}
+
+.btn{
+    margin-left: 10px;
+}
+
+.error-message {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.taskImg{
+    margin-left: 45%;
+}
